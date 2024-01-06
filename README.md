@@ -1,5 +1,5 @@
-<h1 align="center">Welcome to [Codesplain](https://codesplain.live), – Preserve Codebase Knowledge!</h1>
-<h3 align="center">Codesplain, born from the intersection of AI and coding, is your revolutionary companion in the coding universe. In 2024, we embarked on a mission to transform the way developers interact with code documentation.</h3>
+<h1 align="center">Welcome to Codeplain – Preserve Codebase Knowledge!</h1>
+<h3 align="center">[Codesplain](https://codesplain.live), born from the intersection of AI and coding, is your revolutionary companion in the coding universe. In 2024, we embarked on a mission to transform the way developers interact with code documentation.</h3>
 <h3 align="center">Codesplain is not just a tool; it's a paradigm shift. It leverages cutting-edge AI to digest complex code and churn out clear, comprehensive documentation. Our aim? To empower developers by saving time, enhancing collaboration, and preventing knowledge silos.</h3>
 <h3 align="center">Imagine a world where code speaks for itself, where every line tells its story clearly. That's the world Codesplain creates. By automating documentation, we're setting free the creative energies of developers, letting them focus on innovation rather than explanation.</h3>
 <h3 align="center">From solo developers to massive teams, Codesplain is the silent ally, bringing clarity and efficiency to your coding journey. With us, you're not just writing code; you're crafting a legacy of understandable, accessible, and maintainable software.</h3>
